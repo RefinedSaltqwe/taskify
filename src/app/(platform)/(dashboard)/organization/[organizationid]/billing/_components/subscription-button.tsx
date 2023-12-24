@@ -10,7 +10,7 @@ import { useProModal } from "@/hooks/use-pro-modal";
 interface SubscriptionButtonProps {
   isPro: boolean;
 }
-
+//s
 export const SubscriptionButton = ({ isPro }: SubscriptionButtonProps) => {
   const proModal = useProModal();
 
